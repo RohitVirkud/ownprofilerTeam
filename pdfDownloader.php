@@ -18,6 +18,8 @@ fclose($fp);
 
 ?>
 
+<h2>THANK YOU FOR DOWNLOADING...</h2>
+
 
 <!--
 /*
